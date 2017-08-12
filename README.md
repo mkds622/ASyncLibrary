@@ -7,7 +7,7 @@ Features:<br />
 -Easy to Integrate into Android apps.<br />
       Step 1: On Android Studio, select File -> New -> Import Module and import the Library as module.<br />
       Step 2: In App level build.gradle file, add<br />
-                compile project("ASynchLoaderLibrary")<br />
+                compile project("ASyncLoaderLibrary")<br />
                     and build project.<br />
       Step 3: Change the ImageView in which the Images are to be loaded to PhotoView (Custom ImageView created in library).<br />
       Step 4: Use Library using the command:<br />
